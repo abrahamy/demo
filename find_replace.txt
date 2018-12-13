@@ -1,7 +1,7 @@
 Sub replaceMultipleCharactersInString()
 
-    'Source: https://powerspreadsheets.com/
-    'For further information: https://powerspreadsheets.com/excel-vba-replace-substitute/
+    'this sample code implement a find replace with VBA
+    'its just a demo, it has some issues
 
     'declare object variable to hold reference to cell you work with
     Dim myCell As Range
